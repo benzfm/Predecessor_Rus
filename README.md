@@ -32,7 +32,7 @@
 
 ## Лицензия
 
-Скрипты в `tools/` распространяются по лицензии MIT (см. `LICENSE`). Predecessor и все связанные с игрой названия и материалы принадлежат Omeda Studios.
+Predecessor и все связанные с игрой названия и материалы принадлежат Omeda Studios.
 
 Примеры:
 <img width="2512" height="1415" alt="photo_2026-11-24_21-54-51" src="https://github.com/user-attachments/assets/267115ba-3908-49ed-ab7c-6073be71a072" />
